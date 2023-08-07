@@ -1,5 +1,5 @@
 # Kelvin Phang | Data Analytics Graduate
-- 👋 A graduate-to-be in August 2023.
+- 👋 I'm an aspiring data scientist who believes that data makes ideas ideal.
 - 🎓 **Bachelor of Information Systems (Honours) (Data Analytics)** @ Sunway University
 - 👀 Focuses on **machine learning** and **statistics** (mainly predictive analytics).
 - 📫 kelvinphang01@outlook.com | [LinkedIn](https://www.linkedin.com/in/kelvinphang01/) | [Resume](https://kelvinphang01.github.io/resume)
